@@ -4,7 +4,7 @@ A parametric CAD model for generating flatbed knitting machine needle selectors 
 
 ## Quick Start
 
-- Download [FreeCAD](https://www.freecad.org/https://www.freecad.org/) for your operating system.
+- Download and install [FreeCAD](https://www.freecad.org/https://www.freecad.org/) for your operating system in order to open the `parametric_needle_selector.FCStd` file included in this repo.
 - Open the "Parameters" spreadsheet and update the values to fit the specifications of your flatbed knitting machine and desired pattern.
 - Click on the "Needle Selector Part" part in FreeCard then file > export into a `.stl` file.
 - (Optional) Customize the 3D model in software such as [Blender](https://www.blender.org/) to add things like labelling, detailing, or texture.
